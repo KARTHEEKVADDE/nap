@@ -1,4 +1,4 @@
-package nap
+package mydb
 
 import (
 	"database/sql"
